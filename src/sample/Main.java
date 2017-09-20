@@ -34,7 +34,7 @@ public class Main extends Application {
         layout1.getChildren().addAll(label1, button1);
         layout1.setAlignment(Pos.CENTER);
 
-        VBox layout2 = new VBox(20);
+        VBox layout2 = new VBox(30);
         layout2.getChildren().addAll(label2, button2);
         layout2.setAlignment(Pos.CENTER);
         //Adauga scena
